@@ -6,4 +6,6 @@ Language: Java
 
 Technology: RSA, Networking (TCP)
 
+Tags: Academic, chat, TCP, Java, Swing, RSA, Security, Asymetric, Cryptography 
+
 <img src="https://raw.githubusercontent.com/yoeo/chat-secret/master/chat.jpg" />
